@@ -1,3 +1,5 @@
 # localized_platform
 Localize Platform for Kubernetes Testing
-Testing Access
+
+Currently under development additional readme context to come later
+
