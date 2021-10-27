@@ -1,0 +1,5 @@
+Deploys argo and apps of apps for local development
+
+Can use lock docker or kind for the cluster
+
+Still pending the apps of apps
